@@ -21,3 +21,18 @@
 "#-Calcul d'un coefficient de corrélation entre la variable du taux de télétravail et du salaire (-0.06)"
 "#-Calcul du salaire moyen par taille d'entreprise"
 "#-Calcul de la moyenne des salaires par niveau d'expérience et télétravail"
+
+
+"#05/02/2025 - Séances 3 & 4"
+"#Création et composition de l'application streamlit :"
+"#-Importation des librairies et chargement des données"
+"#-Exploration visuelle des données"
+"#-Statistiques générales avec describe pandas "
+"#-Distribution des salaires en France par rôle et niveau d'expérience, uilisant px.box et st.plotly_chart"
+"#-Analyse des tendances des salaires"
+"#-Réalisation de la corrélation entre variables"
+"#-Analyse interactive des variations de salaires"
+"#-Calcul du salaire médian par expérience et taille d'entreprise"
+"#-Ajout des filtres dynamiques"
+"#-Mesure de l'impact du télétravail sur le salaire selon le pays"
+"#-Filtrage avancé des données avec deux st.multiselect (niveau de l'expérience, taille de l'entreprise)"
